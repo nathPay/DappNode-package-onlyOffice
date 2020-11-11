@@ -1,0 +1,16 @@
+{
+  "name": "onlyoffice.public.dappnode.eth",
+  "version": "0.1.0",
+  "upstreamVersion": "6.0.1.32",
+  "description": "Add office tooling for Nextcloud",
+  "type": "service",
+  "author": "Nathan Payre",
+  "categories": [],
+  "links": {
+    "homepage": "https://your-project-homepage-or-docs.io"
+  },
+  "dependencies": {
+    "nextcloud.public.dappnode.eth": "*"
+  },
+  "license": "GLP-3.0"
+}
